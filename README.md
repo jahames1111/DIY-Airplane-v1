@@ -4,6 +4,12 @@
 
 I have made many attempts to create some type of flying thing before, and they always failed because of a low budget. This is my first try that actually holds some promise. I will be creating both a remote and a receiver from scratch — the remote will use joysticks and XIAO boards I already have, and the FC board will be JLCPCB+LCSC. 
 
+## Overview
+This project contains 2 parts:
+1. A flight controller board running brushless motors. It is built off of a XIAO ESP32C3 and has 2 breakouts that are optional for a NEO 6M GPS module and an MPU9250. Runs on one 450mah 1S battery and has 2 100k resistors for a voltage divider for reading remaining battery levels.
+   
+3. A remote using 2 analog joysticks with push buttons, another XIAO C3, and a 240x240 circular screen for showing battery levels for both. The remote runs on a 5v battery pack.
+
 ### Project Materials
 
 | Component Name | Description | Source Link |
