@@ -5,14 +5,14 @@ I have made many attempts to create some type of flying thing before, and they a
 
 | Component Name | Description | Source Link |
 | :--- | :--- | :--- |
-| **XIAO ESP32-C3** | Microcontroller wireless link | https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/ 【1-90ec42】 |
-| **Analog Joystick** | Manual thumbstick control | https://docs.arduino.cc/learn/electronics/joystick-module/ |
-| **GC9A01 Display** | Circular screen telemetry | https://www.waveshare.com/wiki/1.28inch_LCD_Module 【2-110d74】 |
-| **NEO-6M GPS** | Satellite navigation tracking | https://components101.com/modules/neo-6mv2-gps-module 【3-15e73e】 |
-| **MPU9250 IMU** | Motion tracking gyro/accelerometer/magnetometer | https://product.tdk.com/en/search/sensor/mortion-inertial/imu/info?part_no=MPU-9250 【4-d0b68a】 |
-| **Brushed Motors** | Coreless propulsion drive | https://www.adafruit.com/product/711 |
-| **Foam Board** | Lightweight airframe structure | https://www.flitetest.com/articles/ft-scratchbuild-build-videos |
-| **IRLB8721PBF-JSM** | Motor switching MOSFET | https://www.lcsc.com/search?q=IRLB8721PBF |
-| **1N4001 Diode** | Circuit flyback protection | https://www.lcsc.com/product-detail/C47018536.html 【5-cf9828】 |
-| **10kΩ Resistor** | Gate pull-down resistor | https://www.lcsc.com/search?q=10K%20resistor |
-| **100kΩ Resistor** | Telemetry voltage divider | https://www.lcsc.com/search?q=100K%20resistor |
+| **XIAO ESP32-C3** | Microcontroller wireless link | [Datasheet](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) |
+| **Analog Joystick** | Manual thumbstick control | [Reference](https://docs.arduino.cc/learn/electronics/joystick-module/) |
+| **GC9A01 Display** | Circular screen telemetry | [Driver](https://www.waveshare.com/wiki/1.28inch_LCD_Module) |
+| **NEO-6M GPS** | Satellite navigation tracking | [Reference](https://components101.com/modules/neo-6mv2-gps-module) |
+| **MPU9250 IMU** | Motion tracking gyro | [Specification](https://product.tdk.com/en/search/sensor/mortion-inertial/imu/info?part_no=MPU-9250) |
+| **Brushed Motors** | Coreless propulsion drive | [Reference](https://www.adafruit.com/product/711) |
+| **Foam Board** | Lightweight airframe structure | [Guide](https://www.flitetest.com/articles/ft-scratchbuild-build-videos) |
+| **IRLB8721PBF-JSM** | Motor switching gate | [LCSC](https://www.lcsc.com/product-detail/MOSFETs_JSMSEMI-IRLB8721PBF-JSM_C52948633.html) |
+| **1N4001 Diode** | Circuit flyback protection | [LCSC](https://www.lcsc.com/search?q=1N4001) |
+| **10kΩ Resistor** | Gate pull down | [LCSC](https://www.lcsc.com/product-detail/Through-Hole-Resistors_UNI-ROYAL-MFR0W4F1002A50_C57436.html) |
+| **100kΩ Resistor** | Telemetry voltage divider | [LCSC](https://www.lcsc.com/product-detail/Through-Hole-Resistors_YAGEO-MFR-25FRF52-100K_C1740093.html) |
