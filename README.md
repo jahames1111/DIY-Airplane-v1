@@ -6,7 +6,7 @@ I have made many attempts to create some type of flying thing before, and they a
 | Component Name | Description | Source Link |
 | :--- | :--- | :--- |
 | **XIAO ESP32-C3** | Microcontroller wireless link | [Datasheet](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) |
-| **Analog Joystick** | Manual thumbstick control | [Reference](https://docs.arduino.cc/learn/electronics/joystick-module/) |
+| **Analog Joystick** | Manual thumbstick control | [Reference](https://components101.com/modules/joystick-module) |
 | **GC9A01 Display** | Circular screen telemetry | [Driver](https://www.waveshare.com/wiki/1.28inch_LCD_Module) |
 | **NEO-6M GPS** | Satellite navigation tracking | [Reference](https://components101.com/modules/neo-6mv2-gps-module) |
 | **MPU9250 IMU** | Motion tracking gyro | [Specification](https://product.tdk.com/en/search/sensor/mortion-inertial/imu/info?part_no=MPU-9250) |
