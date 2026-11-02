@@ -27,6 +27,6 @@ The main body of the plane will be constructed of foam that I will buy at Dollar
 Since it has 2 motors, I can have one side speed up to bank the other way, or have both speed up/slow down to adjust pitch.
 
 ## Specs
-- Flight controller board - ~3 inches by ~2/3 inches
-- Remote ~180mm by ~80mm
-- 1s
+- Flight controller board: ~3 inches by ~2/3 inches
+- Remote: ~180mm by ~80mm
+- 1S battery system
