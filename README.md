@@ -25,3 +25,8 @@ I have made many attempts to create some type of flying thing before, and they a
 
 The main body of the plane will be constructed of foam that I will buy at Dollar Tree, and I will assemble it according to [this guide](https://canva.link/13dvw4ls8qo39oa) I downloaded.
 Since it has 2 motors, I can have one side speed up to bank the other way, or have both speed up/slow down to adjust pitch.
+
+## Specs
+- Flight controller board - ~3 inches by ~2/3 inches
+- Remote ~180mm by ~80mm
+- 1s
