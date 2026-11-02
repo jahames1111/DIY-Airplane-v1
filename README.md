@@ -32,6 +32,9 @@ This project contains 2 parts:
 The main body of the plane will be constructed of foam that I will buy at Dollar Tree, and I will assemble it according to [this guide](https://canva.link/13dvw4ls8qo39oa) I downloaded.
 Since it has 2 motors, I can have one side speed up to bank the other way, or have both speed up/slow down to adjust pitch.
 
+I also designed a 3d printed case for the transmitter, so here is the Onshape link:
+https://cad.onshape.com/documents/e551e0e861c010d2a69231d2/w/2bc16dd78661a5521259ed7d/e/f502e56e68dee0d14d4a1407?renderMode=0&uiState=6ae8e8fff03f46e928020b88
+
 ## Specs
 - Flight controller board: ~3 inches by ~2/3 inches
 - Remote: ~180mm by ~80mm
