@@ -34,6 +34,7 @@ Since it has 2 motors, I can have one side speed up to bank the other way, or ha
 
 I also designed a 3d printed case for the transmitter, so here is the Onshape link:
 https://cad.onshape.com/documents/e551e0e861c010d2a69231d2/w/2bc16dd78661a5521259ed7d/e/f502e56e68dee0d14d4a1407?renderMode=0&uiState=6ae8e8fff03f46e928020b88
+
 <img width="979" height="713" alt="image" src="https://github.com/user-attachments/assets/807c1d4a-1d8b-4ef2-8764-c335987232eb" />
 
 ## Specs
