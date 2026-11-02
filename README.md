@@ -20,5 +20,8 @@ I have made many attempts to create some type of flying thing before, and they a
 | **10kΩ Resistor** | Gate pull down | [LCSC](https://www.lcsc.com/product-detail/Through-Hole-Resistors_UNI-ROYAL-MFR0W4F1002A50_C57436.html) |
 | **100kΩ Resistor** | Telemetry voltage divider | [LCSC](https://www.lcsc.com/product-detail/Through-Hole-Resistors_YAGEO-MFR-25FRF52-100K_C1740093.html) |
 
+
+## Assembly
+
 The main body of the plane will be constructed of foam that I will buy at Dollar Tree, and I will assemble it according to [this guide](https://canva.link/13dvw4ls8qo39oa) I downloaded.
 Since it has 2 motors, I can have one side speed up to bank the other way, or have both speed up/slow down to adjust pitch.
