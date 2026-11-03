@@ -42,4 +42,5 @@ https://cad.onshape.com/documents/e551e0e861c010d2a69231d2/w/2bc16dd78661a552125
 ## Specs
 - Flight controller board: ~3 inches by ~2/3 inches
 - Remote: ~180mm by ~80mm
+- Airplane: 12"x18"
 - 1S battery system
